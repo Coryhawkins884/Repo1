@@ -11753,10 +11753,10 @@
                         display: "flex",
                         height: 200,
                         justifyContent: "center",
-                        paddingLeft: 100,
+                        paddingLeft: 30,
                         alignItems: "center",
                         flexDirection: "column",
-                        background: "#375564",
+                        background: "#131d23",
                         backgroundSize: "cover",
                       },
                       children: [
