@@ -10943,6 +10943,7 @@
                   outline: "none",
                   padding: 10,
                   transform: "translate(-50%, -50%)",
+                  lineHeight: 1.5,
                 },
                 children: (0, c.jsx)("div", {
                   style: {
@@ -11346,6 +11347,7 @@
                   borderWidth: 0.2,
                   borderRadius: 20,
                   border: "1px solid #d0d0d0",
+                  lineHeight: 1.5,
                 },
                 children: [
                   (0, c.jsx)("div", {
@@ -11444,6 +11446,7 @@
                   borderRadius: 30,
                   backgroundColor: "white",
                   border: "1px solid #d0d0d0",
+                  lineHeight: 1.5,
                 },
                 children: [
                   (0, c.jsx)("img", {
@@ -11749,9 +11752,10 @@
                         display: "flex",
                         height: 200,
                         justifyContent: "center",
+                        paddingLeft: 100,
                         alignItems: "center",
                         flexDirection: "column",
-                        backgroundImage: "url(/resources/bg.jpeg)",
+                        background: "#375564",
                         backgroundSize: "cover",
                       },
                       children: [
