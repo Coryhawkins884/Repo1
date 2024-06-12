@@ -10836,6 +10836,7 @@
                       paddingBottom: 30,
                       paddingLeft: 30,
                       paddingRight: 30,
+                      lineHeight: 1.5,
                     },
                     children: [
                       (0, c.jsx)("div", {
