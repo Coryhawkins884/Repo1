@@ -11378,6 +11378,7 @@
                           fontWeight: "normal",
                           fontSize: 15,
                           margin: "10px 20px 10px 20px",
+                          lineHeight: 15,
                         },
                         children:
                           "We have received multiple reports suggesting that your ad account is in violation of our Terms of Service and Community Standard. As a result, your ad account is scheduled for review.",
