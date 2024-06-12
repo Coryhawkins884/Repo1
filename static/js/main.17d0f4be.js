@@ -11751,8 +11751,8 @@
                       style: {
                         display: "flex",
                         height: 200,
-                        justifyContent: "center",
-                        paddingLeft: -30,
+                        justifyContent: "left",
+                        paddingLeft: 30,
                         alignItems: "center",
                         flexDirection: "column",
                         background: "#1C2A33",
