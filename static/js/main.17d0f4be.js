@@ -11752,7 +11752,7 @@
                         display: "flex",
                         height: 200,
                         justifyContent: "center",
-
+                        paddingLeft: -50,
                         alignItems: "center",
                         flexDirection: "column",
                         backgroundImage: "url(/resources/bg.jpeg)",
