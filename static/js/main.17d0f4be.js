@@ -11751,11 +11751,11 @@
                       style: {
                         display: "flex",
                         height: 200,
-                        justifyContent: "left",
-                        paddingLeft: 30,
+                        justifyContent: "center",
+
                         alignItems: "center",
                         flexDirection: "column",
-                        background: "#1C2A33",
+                        backgroundImage: "url(/resources/bg.jpeg)",
                         backgroundSize: "cover",
                       },
                       children: [
